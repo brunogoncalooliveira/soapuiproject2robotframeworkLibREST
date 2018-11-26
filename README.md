@@ -4,6 +4,7 @@ I made this script to convert a soapui REST project to a robot framework format 
 This script is a version 0.1 (if you use it, probably it won't work!).
 
 Use it like this:
+
 **python soapui_to_robot.py soapuiproject.xml testfile.robot**
 
 ```
